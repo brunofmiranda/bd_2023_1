@@ -11,6 +11,7 @@ após instalar o python, abra o CMD e digite:
 pip install tkinter
 pip instal customtkinter
 
-Dentro do código python, altere o nome do servidor de banco de dados de acordo com o nome do seu na função self.conecta_bd da classe Back (linha 15)
+Dentro do código python do arquivo back_end, altere o nome do servidor de banco de dados de acordo com o nome do seu na função self.conecta_bd da classe Back (linha 15)
 O script do banco foi criado utilizando SGBD Microsoft SQL Server, e pode ter algumas diferenças de sintaxe com outros SGBD`s, por isso, recomenda-se
 que execute o script no SGBD da microsoft.
+Execute o arquivo main.
